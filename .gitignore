@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-apis/youtube.js
-apis
+# apis/youtube.js
+# apis
 key.js
 # dependencies
 /node_modules
