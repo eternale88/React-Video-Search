@@ -1,8 +1,8 @@
-Hosted here on Netlify [https://nostalgic-williams-25089e.netlify.com/]
+Hosted here on Netlify [https://5e42009c0b82c3000992f77d--festive-einstein-efb29a.netlify.com/]
 # React-Video-Search-App
 ## Synopsis
 
-A video search app I  built with  React v16, Babel, Webpack HTML5, Semantic UI, Vanilla JavaScript, and local storage API for persistance. allows a user to search for a video by keyword and returns the top 5 results from the Youtube API.
+A video search app I  built with  React v16, HTML5, Semantic UI, Vanilla JavaScript, nested component structure, and local storage API for persistance. allows a user to search for a video by keyword and returns the top 5 results from the Youtube API.
 
 
 ## Motivation
@@ -11,7 +11,7 @@ To get better at building apps in React and querying new API's.
 
 ## Installation
 
-Hosted here: [https://nostalgic-williams-25089e.netlify.com/]
+Hosted here: [https://5e42009c0b82c3000992f77d--festive-einstein-efb29a.netlify.com/]
 
 Clone or download to your local machine and run, 'npm run build' in one terminal and then 'npm run dev-server' in another terminal window from the main directory.
 
