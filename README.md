@@ -1,4 +1,4 @@
-Hosted here on Netlify [https://5e42009c0b82c3000992f77d--festive-einstein-efb29a.netlify.com/]
+Hosted here on Netlify [https://festive-einstein-efb29a.netlify.com/]
 # React-Video-Search-App
 ## Synopsis
 
@@ -11,7 +11,7 @@ To get better at building apps in React and querying new API's.
 
 ## Installation
 
-Hosted here: [https://5e42009c0b82c3000992f77d--festive-einstein-efb29a.netlify.com/]
+Hosted here: [https://festive-einstein-efb29a.netlify.com/]
 
 Clone or download to your local machine and run, 'npm run build' in one terminal and then 'npm run dev-server' in another terminal window from the main directory.
 
